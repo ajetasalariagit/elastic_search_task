@@ -1,0 +1,8 @@
+6bJML7QcfWSQOjzwofqB
+
+https://stackoverflow.com/questions/59128316/how-to-add-yaml-to-php-server-docker-installation
+
+
+https://www.geeksforgeeks.org/how-to-execute-php-code-using-command-line/
+
+https://www.youtube.com/watch?v=dCRiIMfuW4Y
